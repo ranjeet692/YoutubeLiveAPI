@@ -1,0 +1,19 @@
+{
+  "name": "livechatmessageyoutube",
+  "version": "1.0.0",
+  "description": "make an api call to youtube live chat message api to get chat list and store into a sql database",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "youtube",
+    "api"
+  ],
+  "author": "ranjeet",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "request": "^2.85.0"
+  }
+}
